@@ -34,7 +34,7 @@ erDiagram
     PACIENTE ||--o{ CONSULTA : "realiza"
     MEDICO ||--o{ CONSULTA : "atende"
     CONSULTA ||--|| RECEITA : "gera"
-    MEDICO ||--o{ ESPECIALIDADE : "possui"
+    MEDICO o{--o{ ESPECIALIDADE : "possui"
 
     PACIENTE {
         int id_paciente PK
