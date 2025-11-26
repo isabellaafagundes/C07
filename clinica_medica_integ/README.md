@@ -1,6 +1,6 @@
-# clinica_medica_integration
+# clinica_medica_integ
 
-Projeto de integração Java + MySQL para a disciplina — entrega 1.
+Projeto de integração Java + MySQL para a disciplina 
 
 ## Como usar
 
